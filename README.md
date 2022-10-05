@@ -1,12 +1,12 @@
 ## Arthur Brenno
-<div align="center">
-  <a href="https://github.com/Arthur-Brenno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Brenno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Brenno&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+<a href="https://github.com/Arthur-Brenno">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Brenno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Brenno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/742794590146265229/1027201245305389107/Sem_Titulo-1.png?width=676&height=676">
+<img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="right" alt="Arthur-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/742794590146265229/1027201245305389107/Sem_Titulo-1.png?width=676&height=676">
 </div>
   
   ##
