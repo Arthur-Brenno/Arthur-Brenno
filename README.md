@@ -1,5 +1,5 @@
 # 💫 Bem vindo!
-📁 Sobre mim <br>.....📂Cursando Sistemas de Informação - UNIUBE<br>.....📂Apto a novos aprendizados<br>.....📂Backend <br><br>🌱 Ainda aprendendo: Python, SQL Databases, C & Java<br>📫 Como falar comigo: arthurbreno009@gmail.com<br>👨‍💻 Meu portfólio: https://arthurbrc.wixsite.com/inicio<br>📝 Artigos que escrevo: https://medium.com/@arthurbrenno<br><br>
+📁 Sobre mim <br>.....📂Cursando Sistemas de Informação - UNIUBE<br>.....📂Apto a novos aprendizados<br>.....📂Backend <br><br>🌱 Ainda aprendendo: SQL Databases, C & Java<br>📫 Como falar comigo: arthurbreno009@gmail.com<br>👨‍💻 Meu portfólio: https://arthurbrc.wixsite.com/inicio<br>📝 Artigos que escrevo: https://medium.com/@arthurbrenno<br><br>
 
 
 ## 🌐 Socials:
