@@ -41,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arthurbrenno/arthurbrenno/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arthurbrenno/arthurbrenno/output/snake.svg" alt="Snake animation" />
 
 ###
 
