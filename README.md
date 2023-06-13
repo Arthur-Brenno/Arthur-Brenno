@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Aluno da Universidade de Uberaba<br>📚 Sempre aprendendo<br>📧 Contato: arthurbreno009@gmail.com</p>
+<p align="left">🎓 Aluno da Universidade de Uberaba<br>📚 Sempre aprendendo<br>📧 Contato: arthurbreno009@icloud.com</p>
 
 ###
 
