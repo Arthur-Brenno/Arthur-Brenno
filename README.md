@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Aspirações Tech</h2>
+<h2 align="center">Tecnologias</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">Aspirações gerais</h2>
+<h2 align="center">Hobbies</h2>
 
 ###
 
