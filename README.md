@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Technologies</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="center">Quer me conhecer mais?</h2>
+<h2 align="center">More about me:</h2>
 
 ###
 
