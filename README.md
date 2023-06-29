@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Aluno da Universidade de Uberaba<br>📚 Sempre aprendendo<br>📧 Contato: arthurbreno009@icloud.com</p>
+<p align="left">🎓 Sys. inf. Student at Brazil<br>📚 Always learning<br>📧 Contact: arthurbreno009@icloud.com</p>
 
 ###
 
