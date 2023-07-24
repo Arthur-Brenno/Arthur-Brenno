@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Sys. inf. Student at Brazil<br>📚 Always learning<br>📧 Contact: arthurbreno009@icloud.com</p>
+<p align="left">🎓 Sys. inf. Student at Brazil<br>📚 Always learning</p>
 
 ###
 
