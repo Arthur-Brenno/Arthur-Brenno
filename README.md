@@ -4,10 +4,6 @@
 
 ###
 
-<p align="left">🎓 Sys. inf. Student at Brazil<br>📚 Always learning</p>
-
-###
-
 <h2 align="center">Technologies</h2>
 
 ###
