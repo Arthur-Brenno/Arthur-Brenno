@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arthurbrenno&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/arthurbrenno/github-widgetbox)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=arthurbrenno&data=followers,repositories,stars,commits&theme=nautilus)
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
